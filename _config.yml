@@ -5,11 +5,10 @@ url: "https://elin0425.github.io"
 
 theme: minima
 minima:
-  skin: classic
+  skin: solarized
   date_format: "%B %-d, %Y"
 
-author:
-  name: Kitchen Finds
+author: Kitchen Finds
 
 show_excerpts: true
 
@@ -19,7 +18,6 @@ header_pages:
   - about.md
 
 plugins:
-  - jekyll-feed
   - jekyll-sitemap
 
 # SEO
