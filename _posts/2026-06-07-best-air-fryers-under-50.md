@@ -6,10 +6,6 @@ description: "The 5 best air fryers under $50 that actually deliver crispy resul
 categories: [kitchen, gadgets]
 ---
 
-# The 5 Best Air Fryers Under $50 That Actually Crisp Your Food
-
-*Disclosure: This post contains Amazon affiliate links. If you buy through them, I earn a small commission at no extra cost to you.*
-
 Here's something that surprises most people: you don't need to spend $150 on an air fryer to get genuinely crispy results. The price gap between budget and premium models has narrowed considerably, and a handful of options under $50 punch well above their weight class.
 
 The catch? There's also a lot of junk in this price range — thin baskets, uneven heating, and controls that feel like they were designed as an afterthought. Sorting the winners from the landfill-bound losers takes some legwork.

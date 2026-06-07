@@ -5,7 +5,6 @@ url: "https://elin0425.github.io"
 
 theme: minima
 minima:
-  skin: solarized
   date_format: "%B %-d, %Y"
 
 author: Kitchen Finds
