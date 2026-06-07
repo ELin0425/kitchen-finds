@@ -1,0 +1,75 @@
+<style>
+  :root {
+    --brand: #d4622a;
+    --brand-dark: #a84a1e;
+    --bg: #fdf8f3;
+  }
+
+  body {
+    background-color: var(--bg);
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+    font-size: 17px;
+    line-height: 1.7;
+    color: #222;
+  }
+
+  .site-header {
+    background: #fff;
+    border-top: 3px solid var(--brand);
+    border-bottom: 1px solid #e8e0d8;
+  }
+
+  .site-title,
+  .site-title:visited {
+    font-weight: 800;
+    color: var(--brand) !important;
+  }
+  .site-title:hover { opacity: 0.85; text-decoration: none; }
+
+  a { color: var(--brand); }
+  a:visited { color: var(--brand-dark); }
+  a:hover { color: var(--brand-dark); }
+
+  h1, h2, h3 { font-weight: 700; }
+
+  .post-content h2 {
+    margin-top: 2em;
+    border-bottom: 1px solid #ede5dc;
+    padding-bottom: 4px;
+  }
+
+  .post-content h3 {
+    margin-top: 1.5em;
+    color: #333;
+  }
+
+  /* Amazon affiliate buttons */
+  .post-content a[href*="amazon.com"] {
+    display: inline-block;
+    background: var(--brand);
+    color: #fff !important;
+    padding: 6px 16px;
+    border-radius: 5px;
+    font-size: 0.9em;
+    font-weight: 600;
+    text-decoration: none !important;
+    margin: 4px 0 12px;
+  }
+  .post-content a[href*="amazon.com"]:hover {
+    background: var(--brand-dark);
+    color: #fff !important;
+  }
+
+  .post-list-heading { margin-top: 0.5em; }
+  .post-list h3 { font-size: 1.2em; margin-bottom: 2px; }
+  .post-meta { font-size: 0.85em; color: #888; }
+
+  .site-footer {
+    background: #fff;
+    border-top: 1px solid #e8e0d8;
+    color: #999;
+    font-size: 0.82em;
+  }
+
+  .rss-subscribe { display: none !important; }
+</style>
