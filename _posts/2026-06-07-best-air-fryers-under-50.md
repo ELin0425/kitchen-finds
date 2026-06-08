@@ -36,7 +36,7 @@ Every air fryer on this list had to clear three bars: real user reviews numberin
 
 The DASH is the one I'd hand to someone who's never used an air fryer before and doesn't want to read a manual. One dial for temperature, one for the timer — done. The 2.6-quart basket hits the sweet spot for one to two people: big enough for a full chicken breast or a generous pile of fries, small enough to live on a crowded counter without taking over. What stands out in thousands of reviews isn't just that it works, but that it browns *evenly* — which is genuinely the hardest thing to get right at this price point.
 
-[→ Check price on Amazon](https://www.amazon.com/dp/B07C9NW8R4?tag=merrieri0a-20)
+[→ Check price on Amazon](https://www.amazon.com/dp/B08QQSB15M?tag=merrieri0a-20)
 
 ---
 
@@ -44,7 +44,7 @@ The DASH is the one I'd hand to someone who's never used an air fryer before and
 
 Don't let the "mini" fool you — COSORI builds quality into this compact unit in ways that brands twice the price sometimes miss. The nonstick basket is PFAS, PFOA, and PTFE-free, which matters more than the marketing on most competing models. You get four preset cooking modes and access to 30 in-app recipes via the COSORI app — actually handy when you're standing there with a piece of salmon wondering what temperature to use. For solo cooks or couples, this is the most thoughtful option under $50.
 
-[→ Check price on Amazon](https://www.amazon.com/dp/B07R6B2QKN?tag=merrieri0a-20)
+[→ Check price on Amazon](https://www.amazon.com/dp/B0BDFRZX3F?tag=merrieri0a-20)
 
 ---
 
@@ -60,7 +60,7 @@ Chefman doesn't get as much press as DASH or COSORI, but this model has earned i
 
 My counter has approximately four inches of free space at any given time, so I have strong feelings about air fryers that don't know their footprint. The Elite Gourmet does. It's one of the smallest units in this category while still delivering usable capacity for a single serving or a light snack for two. Crucially, the temperature goes up to 400°F — the number you actually need for real crisping, not just warming something through. It won't win any feature competitions, but it's honest about what it is: a no-nonsense compact air fryer that earns its counter space.
 
-[→ Check price on Amazon](https://www.amazon.com/dp/B07H4WHQBR?tag=merrieri0a-20)
+[→ Check price on Amazon](https://www.amazon.com/dp/B0D1148THS?tag=merrieri0a-20)
 
 ---
 
@@ -68,7 +68,7 @@ My counter has approximately four inches of free space at any given time, so I h
 
 Instant Pot built its reputation on the pressure cooker, but the Vortex line carries the same engineering mindset: reliable, consistent, and designed to last beyond the first six months. The 2-quart version regularly dips under $50 and brings brand infrastructure that cheaper options can't match — including over 100 in-app recipes and a dishwasher-safe basket that holds up to repeated washing without the coating starting to flake. If you want the peace of mind that comes with a name you already trust, this is your pick among the best air fryers under $50.
 
-[→ Check price on Amazon](https://www.amazon.com/dp/B06Y1YD5W7?tag=merrieri0a-20)
+[→ Check price on Amazon](https://www.amazon.com/dp/B08YS49S5C?tag=merrieri0a-20)
 
 ---
 
