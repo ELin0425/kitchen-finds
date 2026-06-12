@@ -26,6 +26,7 @@ Here's exactly what's worth buying — and what to skip.
 - **Best compact:** Braun MultiQuick 5 — slim grip, surprisingly capable motor
 - **Best for smoothies:** KOIOS 4-in-1 Hand Blender — comes with a blending cup, no extra purchase needed
 - **Best no-frills:** Cuisinart Smart Stick CSB-175 — one button, one job, does it well
+
 ---
 
 ## Comparison Table
