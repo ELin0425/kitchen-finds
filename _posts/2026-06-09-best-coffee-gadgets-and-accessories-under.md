@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "The 7 Best Coffee Gadgets and Accessories Under $50 That Actually Upgrade Your Morning"
+title: "The 6 Best Coffee Gadgets and Accessories Under $50 That Actually Upgrade Your Morning"
 date: 2026-06-09
-description: "The 7 best coffee gadgets and accessories under $50 — burr grinders, pour-over drippers, frothers, and cold brew makers that actually improve your cup."
+description: "The 6 best coffee gadgets and accessories under $50 — burr grinders, pour-over drippers, frothers, and cold brew makers that actually improve your cup."
 categories: [kitchen, gadgets]
 image: "/kitchen-finds/assets/images/posts/2026-06-09-best-coffee-gadgets-and-accessories-under.jpg"
 ---
@@ -22,7 +22,6 @@ These picks cut through the noise. Whether you're a pour-over purist, a cold bre
 - **Best for beginners:** Hario V60 Ceramic Dripper — simple, forgiving, produces excellent pour-over
 - **Best handheld frother:** PowerLix Milk Frother — turns any milk into café-quality foam in 15 seconds
 - **Best for cold brew:** Takeya Patented Deluxe Cold Brew Coffee Maker — no mess, no fuss, great extraction
-- **Best travel mug:** LARQ Self-Cleaning Water Bottle (Matte Black) — keeps coffee hot for hours
 - **Best value:** Melitta Pour-Over Coffee Maker — under $15 and produces a clean, bright cup
 - **Best kitchen multi-tool:** Lodge 10.25 Inch Cast Iron Skillet — roast beans, warm cups, handle any coffee-adjacent cooking task
 
@@ -121,6 +120,8 @@ Cold brew is easy to make badly — too weak, too diluted, too much sediment. Th
 - The fine mesh filter needs rinsing immediately after you pour — let the grounds dry in there and they clog the mesh and require real scrubbing to clear
 - The concentrate-to-water ratio isn't printed anywhere; takes a batch or two of trial and error to land on what works for your taste
 
+[→ Check price on Amazon](https://www.amazon.com/s?k=takeya+cold+brew+coffee+maker&tag=merrieri0a-20)
+
 ---
 
 ### Melitta Pour-Over Coffee Maker
@@ -137,6 +138,8 @@ This is the honest budget pick. It's not beautiful, it won't impress anyone, and
 **Cons:**
 - Plastic construction feels noticeably lightweight next to ceramic or glass — fine functionally, but don't expect it to feel premium
 - No temperature guidance built in; you're trusting your kettle, which matters more with pour-over than most people realize
+
+[→ Check price on Amazon](https://www.amazon.com/s?k=melitta+pour+over+coffee+maker&tag=merrieri0a-20)
 
 ---
 
