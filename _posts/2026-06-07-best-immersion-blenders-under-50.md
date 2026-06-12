@@ -64,7 +64,7 @@ This is the one to buy if you just want it to work without thinking about it. Th
 - Only two speeds — not enough fine-tuning if you regularly tackle delicate emulsifications or graduated textures
 - Slightly bulkier body than ultra-slim competitors, which can make it awkward in narrower containers
 
-[→ Check price on Amazon](https://www.amazon.com/dp/B00006JSUA?tag=merrieri0a-20)
+[→ Check price on Amazon](https://www.amazon.com/dp/B005GFXK1K?tag=merrieri0a-20)
 
 ---
 
@@ -83,7 +83,7 @@ If you've never owned an immersion blender before, this is where to start. It we
 - Struggles with very thick mixtures or frozen fruit — the motor audibly strains and blending slows to a crawl
 - Plastic housing feels noticeably less solid than pricier options when you're gripping it hard
 
-[→ Check price on Amazon](https://www.amazon.com/dp/B0764HS4SL?tag=merrieri0a-20)
+[→ Check price on Amazon](https://www.amazon.com/dp/B06XXJLNH9?tag=merrieri0a-20)
 
 ---
 
@@ -102,7 +102,7 @@ Nine speeds under $30 sounds like a marketing gimmick until you actually use it.
 - Plastic wand can warp if left sitting in very hot liquid — submerge, blend, remove
 - Louder than most competitors at full power; not the one to grab at 6am in a small apartment
 
-[→ Check price on Amazon](https://www.amazon.com/dp/B00004OCNS?tag=merrieri0a-20)
+[→ Check price on Amazon](https://www.amazon.com/dp/B075X1KPLZ?tag=merrieri0a-20)
 
 ---
 
@@ -121,7 +121,7 @@ Braun has been making stick blenders longer than most brands have existed, and t
 - Only 2 speeds — straightforward but limiting if you want graduated texture control
 - Price occasionally drifts just above $50 depending on retailer and timing — worth checking before you buy
 
-[→ Check price on Amazon](https://www.amazon.com/dp/B00004OCNS?tag=merrieri0a-20)
+[→ Check price on Amazon](https://www.amazon.com/dp/B01EA5ZI2U?tag=merrieri0a-20)
 
 ---
 
@@ -140,7 +140,7 @@ The KOIOS earns its spot by including a 600ml blending cup, a whisk attachment, 
 - More parts means more things to wash, dry, and eventually lose behind the toaster
 - Whisk attachment works in a pinch but won't replace a dedicated hand mixer for anything that needs real volume — think meringue or whipped cream
 
-[→ Check price on Amazon](https://www.amazon.com/dp/B0764HS4SL?tag=merrieri0a-20)
+[→ Check price on Amazon](https://www.amazon.com/dp/B07FL82P4H?tag=merrieri0a-20)
 
 ---
 
@@ -159,7 +159,7 @@ The Smart Stick has been in Cuisinart's lineup for years for a reason: it works,
 - Single speed means you're committing to full power every time — no gentleness for delicate tasks
 - No included accessories; what you see is what you get
 
-[→ Check price on Amazon](https://www.amazon.com/dp/B00004OCNS?tag=merrieri0a-20)
+[→ Check price on Amazon](https://www.amazon.com/dp/B079NXBWDR?tag=merrieri0a-20)
 
 ---
 

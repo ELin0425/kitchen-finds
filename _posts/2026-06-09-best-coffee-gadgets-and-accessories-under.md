@@ -63,7 +63,7 @@ If you're still buying pre-ground coffee, this is the single upgrade that will m
 - Takes up a real footprint — not great if your counter space is already spoken for
 - 12 oz hopper runs low fast if you're grinding for more than two people
 
-[→ Check price on Amazon](https://www.amazon.com/dp/B00006JSUA?tag=merrieri0a-20)
+[→ Check price on Amazon](https://www.amazon.com/dp/B07CSKGLMM?tag=merrieri0a-20)
 
 ---
 
@@ -82,7 +82,7 @@ Pour-over has a reputation for being precious and complicated. The V60 proves th
 - A gooseneck kettle really does matter here — a standard kettle spout dumps water too fast and floods the grounds; budget another $25–$35 if you don't own one
 - Single-serving size means brewing two rounds back-to-back if you're making coffee for a partner
 
-[→ Check price on Amazon](https://www.amazon.com/dp/B00004OCNS?tag=merrieri0a-20)
+[→ Check price on Amazon](https://www.amazon.com/dp/B000P4D5HG?tag=merrieri0a-20)
 
 ---
 
@@ -101,7 +101,7 @@ A handheld frother costs about the same as two oat milk lattes and pays for itse
 - With daily use, expect to swap batteries every couple of months — worth keeping a spare AA on hand
 - The texture is close to a steam wand, but not identical; if you're chasing true latte art, you'll notice the difference
 
-[→ Check price on Amazon](https://www.amazon.com/dp/B0764HS4SL?tag=merrieri0a-20)
+[→ Check price on Amazon](https://www.amazon.com/dp/B01BY9RTNQ?tag=merrieri0a-20)
 
 ---
 
@@ -120,7 +120,7 @@ Cold brew is easy to make badly — too weak, too diluted, too much sediment. Th
 - The fine mesh filter needs rinsing immediately after you pour — let the grounds dry in there and they clog the mesh and require real scrubbing to clear
 - The concentrate-to-water ratio isn't printed anywhere; takes a batch or two of trial and error to land on what works for your taste
 
-[→ Check price on Amazon](https://www.amazon.com/s?k=takeya+cold+brew+coffee+maker&tag=merrieri0a-20)
+[→ Check price on Amazon](https://www.amazon.com/dp/B00FFLY64U?tag=merrieri0a-20)
 
 ---
 
@@ -139,7 +139,7 @@ This is the honest budget pick. It's not beautiful, it won't impress anyone, and
 - Plastic construction feels noticeably lightweight next to ceramic or glass — fine functionally, but don't expect it to feel premium
 - No temperature guidance built in; you're trusting your kettle, which matters more with pour-over than most people realize
 
-[→ Check price on Amazon](https://www.amazon.com/s?k=melitta+pour+over+coffee+maker&tag=merrieri0a-20)
+[→ Check price on Amazon](https://www.amazon.com/dp/B001796HGY?tag=merrieri0a-20)
 
 ---
 
