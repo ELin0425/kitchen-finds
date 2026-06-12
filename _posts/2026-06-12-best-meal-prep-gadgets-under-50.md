@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "The 7 Best Meal Prep Gadgets Under $50 That Actually Save You Time"
+title: "The 3 Best Meal Prep Gadgets Under $50 That Actually Save You Time"
 date: 2026-06-12
 description: "The best meal prep gadgets under $50 — 3 tools that actually save time, reduce cleanup, and hold up week after week. Real picks, no fluff."
 categories: [kitchen, gadgets]
