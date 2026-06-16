@@ -1,7 +1,7 @@
 title: Kitchen Finds
 description: The best kitchen gadgets and tools under $50 — honest picks for home cooks, apartment dwellers, and anyone who actually uses their kitchen.
-baseurl: "/kitchen-finds"
-url: "https://elin0425.github.io"
+baseurl: ""
+url: "https://kitchen-finds.com"
 
 theme: minima
 minima:
