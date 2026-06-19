@@ -2,8 +2,8 @@ name: Generate Blog Post
 
 on:
   schedule:
-    # 9am EDT Mon/Wed/Fri (UTC-4 in summer → 13:00 UTC)
-    - cron: '0 13 * * 1,3,5'
+    # 10am EDT Mon/Thu (UTC-4 in summer → 14:00 UTC)
+    - cron: '0 14 * * 1,4'
   workflow_dispatch:  # allow manual trigger from GitHub UI
 
 permissions:
