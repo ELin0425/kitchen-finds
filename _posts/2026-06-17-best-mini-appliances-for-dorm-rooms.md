@@ -4,6 +4,7 @@ title: "4 Best Mini Appliances for Dorm Rooms That Actually Pull Their Weight"
 date: 2026-06-17
 description: "4 best mini appliances for dorm rooms — immersion blender, salad spinner, veggie chopper & cast iron skillet that earn their counter space."
 categories: [kitchen, gadgets]
+image: "/assets/images/posts/2026-06-17-best-mini-appliances-for-dorm-rooms.jpg"
 faq:
   - q: "Are mini appliances allowed in dorm rooms?"
     a: "Most dorms prohibit open coil appliances and anything with an exposed heating element, but immersion blenders, salad spinners, and choppers are almost universally fine. Hot plates and skillets depend entirely on your specific dorm's policy — check before you pack the cast iron."
@@ -12,6 +13,9 @@ faq:
   - q: "How do I keep mini appliances clean in a small space?"
     a: "The tools here were chosen partly because they're easy to clean without a full kitchen setup. The immersion blender rinses under the tap in seconds. The salad spinner bowls can be wiped or rinsed in a dorm bathroom sink. The chopper handwashes quickly with a brush. The cast iron just needs a dry wipe and a drop of oil — no soaking required."
 ---
+
+![best mini appliances for dorm rooms](/assets/images/posts/2026-06-17-best-mini-appliances-for-dorm-rooms.jpg)
+*Photo by [David Trinks](https://unsplash.com/@dtrinksrph) on [Unsplash](https://unsplash.com)*
 
 Dorm kitchen privileges are basically a cruel joke. You've got a 10-inch countertop, a communal microwave that smells like someone's 4 a.m. ramen, and zero cabinet space. Most "dorm appliance" roundups solve this by recommending a waffle maker — which you'll use once in October and never again.
 

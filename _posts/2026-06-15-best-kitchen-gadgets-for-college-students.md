@@ -4,6 +4,7 @@ title: "3 Best Kitchen Gadgets for College Students That Actually Earn Counter S
 date: 2026-06-15
 description: "3 best kitchen gadgets for college students — practical picks that save time, cut food costs, and actually earn their spot in a small kitchen."
 categories: [kitchen, gadgets]
+image: "/assets/images/posts/2026-06-15-best-kitchen-gadgets-for-college-students.jpg"
 faq:
   - q: "What kitchen gadgets should every college student own?"
     a: "Prioritize tools that pull double duty: a good pan, something for blending or mixing, and prep tools that speed up chopping or washing. The three picks above cover all three categories without overlapping."
@@ -12,6 +13,9 @@ faq:
   - q: "Are these kitchen gadgets for college students actually worth buying, or should I just use what comes with the apartment?"
     a: "Furnished apartments usually come with the bare minimum — one scratched pan, one sad spatula. Having your own solid skillet and blender means you're not cooking around someone else's limitations, and you take them with you when you move."
 ---
+
+![best kitchen gadgets for college students](/assets/images/posts/2026-06-15-best-kitchen-gadgets-for-college-students.jpg)
+*Photo by [Franco Debartolo](https://unsplash.com/@francotheshooter) on [Unsplash](https://unsplash.com)*
 
 Ramen is fine. For approximately two weeks. After that, you're either spending $15 a day on takeout or staring at a bag of spinach wondering how anyone actually cooks without a full kitchen setup. The real problem isn't motivation — it's not having the right tools.
 
