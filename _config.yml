@@ -18,8 +18,10 @@ header_pages:
 
 plugins:
   - jekyll-sitemap
+  - jekyll-redirect-from
 
 # SEO
 lang: en_US
 twitter:
   username: ""
+  card: summary_large_image
