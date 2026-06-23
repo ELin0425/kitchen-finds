@@ -2,9 +2,9 @@ name: Generate Blog Post
 
 on:
   schedule:
-    # 10am EDT Mon/Thu (UTC-4 in summer → 14:00 UTC)
-    - cron: '0 14 * * 1,4'
-  workflow_dispatch:  # allow manual trigger from GitHub UI
+    # 10am EDT Monday only (UTC-4 in summer -> 14:00 UTC)
+    - cron: '0 14 * * 1'
+  workflow_dispatch:
 
 permissions:
   contents: write
