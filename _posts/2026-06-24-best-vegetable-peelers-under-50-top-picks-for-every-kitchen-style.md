@@ -53,7 +53,7 @@ Fixed-blade peelers don't have a pivoting mechanism. They're rigid and simple. T
 
 ### Julienne Peelers: Specialized Cutting Capabilities
 
-A julienne peeler has a serrated or toothed blade that cuts the peel into thin strips instead of removing it in sheets. Use it to create julienned carrots, zucchini, or cucumber for salads and stir-fries without a mandoline or knife skills. A [Check price](https://www.amazon.com/dp/B088D1R7C5/?tag=merrieri0a-20) gives you both a standard peeling blade and a julienne blade in one tool, which is a solid space-saving option.
+A julienne peeler has a serrated or toothed blade that cuts the peel into thin strips instead of removing it in sheets. Use it to create julienned carrots, zucchini, or cucumber for salads and stir-fries without a mandoline or knife skills. A [julienne peeler with dual blades](https://www.amazon.com/dp/B088D1R7C5/?tag=merrieri0a-20) gives you both a standard peeling blade and a julienne blade in one tool, which is a solid space-saving option.
 
 ### Power Peelers: When to Consider Electric Options
 
@@ -89,37 +89,37 @@ We compared performance relative to price. A $6 peeler that performs like a $15 
 
 ### Product #1: Y-Peeler Standout
 
-For most people, a [Check price](https://www.amazon.com/dp/B00004OCIU/?tag=merrieri0a-20) is the best starting point. The wide blade covers more surface area per stroke, which means faster peeling. The stainless steel blade stays sharp through hundreds of uses. Look for one with a comfortable grip handle and a built-in eye remover at the top. Great for potatoes, apples, pears, and most root vegetables. Usually runs $8 to $15 and is worth every cent.
+For most people, a [Y-shaped stainless steel peeler](https://www.amazon.com/dp/B00004OCIU/?tag=merrieri0a-20) is the best starting point. The wide blade covers more surface area per stroke, which means faster peeling. The stainless steel blade stays sharp through hundreds of uses. Look for one with a comfortable grip handle and a built-in eye remover at the top. Great for potatoes, apples, pears, and most root vegetables. Usually runs $8 to $15 and is worth every cent.
 
 **Best for:** Everyday home cooks who want a reliable all-rounder.
 
 ### Product #2: Budget-Friendly Option
 
-Not everyone wants to overthink a peeler purchase. A [Check price](https://www.amazon.com/dp/B08T5SZ16Y/?tag=merrieri0a-20) covers the basics well at a low price point. The swivel blade adapts to curved vegetables naturally, and the ergonomic handle makes it more comfortable than older straight-handle designs. Usually available for under $10. A solid choice for anyone who grew up using this style and doesn't want to change their technique.
+Not everyone wants to overthink a peeler purchase. A [straight swivel peeler](https://www.amazon.com/dp/B08T5SZ16Y/?tag=merrieri0a-20) covers the basics well at a low price point. The swivel blade adapts to curved vegetables naturally, and the ergonomic handle makes it more comfortable than older straight-handle designs. Usually available for under $10. A solid choice for anyone who grew up using this style and doesn't want to change their technique.
 
 **Best for:** Anyone who wants a no-fuss, affordable peeler that just works.
 
 ### Product #3: Specialty Julienne Peeler
 
-The [Check price](https://www.amazon.com/dp/B088D1R7C5/?tag=merrieri0a-20) earns its spot because it does two jobs in one compact tool. Flip between a standard peeling blade and a julienne blade depending on what you need. Great for home cooks who make a lot of salads, Asian-inspired dishes, or low-carb noodle alternatives. The dual-blade design means you're not buying two separate tools. Most models in this category run $12 to $20.
+The [julienne peeler](https://www.amazon.com/dp/B088D1R7C5/?tag=merrieri0a-20) earns its spot because it does two jobs in one compact tool. Flip between a standard peeling blade and a julienne blade depending on what you need. Great for home cooks who make a lot of salads, Asian-inspired dishes, or low-carb noodle alternatives. The dual-blade design means you're not buying two separate tools. Most models in this category run $12 to $20.
 
 **Best for:** Home cooks who want to add texture and variety to their vegetable prep without buying a mandoline.
 
 ### Product #4: Ergonomic Choice
 
-The [Check price](https://www.amazon.com/dp/B0C8HYPP3L/?tag=merrieri0a-20) is specifically designed for people who find standard handles uncomfortable. The wider grip distributes pressure across more of the palm, reducing strain during extended use. Ideal for anyone who does a lot of batch cooking or prep work. The soft TPR handle material also helps with wet hands. Price range is typically $12 to $22.
+The [wide-grip ergonomic peeler](https://www.amazon.com/dp/B0C8HYPP3L/?tag=merrieri0a-20) is specifically designed for people who find standard handles uncomfortable. The wider grip distributes pressure across more of the palm, reducing strain during extended use. Ideal for anyone who does a lot of batch cooking or prep work. The soft TPR handle material also helps with wet hands. Price range is typically $12 to $22.
 
 **Best for:** Home cooks who peel large quantities regularly or anyone who notices hand strain with standard peelers.
 
 ### Product #5: Premium Performer
 
-A [Check price](https://www.amazon.com/dp/B000OZ95UC/?tag=merrieri0a-20) brings something different to the table. Ceramic blades are incredibly sharp right out of the box and stay that way for a long time under normal use. They don't oxidize, so there's no metallic taste or discoloration on light-colored vegetables. The tradeoff is brittleness. Drop it on a hard floor and the blade can chip. Handle with care and this peeler lasts a long time. Usually $15 to $30.
+A [ceramic blade peeler](https://www.amazon.com/dp/B000OZ95UC/?tag=merrieri0a-20) brings something different to the table. Ceramic blades are incredibly sharp right out of the box and stay that way for a long time under normal use. They don't oxidize, so there's no metallic taste or discoloration on light-colored vegetables. The tradeoff is brittleness. Drop it on a hard floor and the blade can chip. Handle with care and this peeler lasts a long time. Usually $15 to $30.
 
 **Best for:** Cooks who prioritize razor-sharp peeling and are careful with their tools.
 
 ### Product #6: Best for Left-Handers
 
-Most peelers are designed for right-handed use without anyone saying so explicitly. The blade angle, the handle orientation, and the eye-remover placement all assume you're using your right hand. A [Check price](https://www.amazon.com/dp/B0FYPK36QQ/?tag=merrieri0a-20) flips those assumptions. The blade is angled correctly for a left-handed stroke, which makes peeling smoother and more intuitive. If you're left-handed and have never tried a peeler designed for you, it genuinely changes the experience. Typically priced around $8 to $15.
+Most peelers are designed for right-handed use without anyone saying so explicitly. The blade angle, the handle orientation, and the eye-remover placement all assume you're using your right hand. A [left-handed peeler](https://www.amazon.com/dp/B0FYPK36QQ/?tag=merrieri0a-20) flips those assumptions. The blade is angled correctly for a left-handed stroke, which makes peeling smoother and more intuitive. If you're left-handed and have never tried a peeler designed for you, it genuinely changes the experience. Typically priced around $8 to $15.
 
 **Best for:** Left-handed cooks who are tired of fighting with tools built for the other hand.
 
@@ -173,7 +173,7 @@ Most quality peelers under $50 offer at least a one-year warranty, and some offe
 
 If you're building out your kitchen toolkit beyond peelers, check out our guide to essential kitchen tools for the full picture. And if you're looking at ways to keep your prep tools organized and accessible, our kitchen organization tips covers practical storage solutions that actually work.
 
-You might also find our [Check price](https://www.amazon.com/dp/B0DDWHDXJ4/?tag=merrieri0a-20) useful if you're trying to consolidate your tool collection. One tool that peels, zests citrus, and handles fine grating can replace three items on your counter.
+You might also find our [peeler and zester combo](https://www.amazon.com/dp/B0DDWHDXJ4/?tag=merrieri0a-20) useful if you're trying to consolidate your tool collection. One tool that peels, zests citrus, and handles fine grating can replace three items on your counter.
 
 ---
 
@@ -197,7 +197,7 @@ A sharp Y-peeler or straight swivel peeler can handle butternut squash, but it t
 
 ### What's the Best Vegetable Peeler for Someone With Arthritis or Weak Grip Strength?
 
-Look for a wide, cushioned handle that minimizes the squeezing force required. An [Check price](https://www.amazon.com/dp/B0C8HYPP3L/?tag=merrieri0a-20) distributes pressure across more of the palm and reduces the need to grip tightly. Y-peelers are often recommended for people with joint issues because the motion requires less wrist rotation than straight peelers. A very sharp blade also matters here because sharp blades require less force. If grip strength is a significant concern, consider an OXO Good Grips model specifically, as it was designed with input from people with limited hand mobility.
+Look for a wide, cushioned handle that minimizes the squeezing force required. An [ergonomic wide-grip peeler](https://www.amazon.com/dp/B0C8HYPP3L/?tag=merrieri0a-20) distributes pressure across more of the palm and reduces the need to grip tightly. Y-peelers are often recommended for people with joint issues because the motion requires less wrist rotation than straight peelers. A very sharp blade also matters here because sharp blades require less force. If grip strength is a significant concern, consider an OXO Good Grips model specifically, as it was designed with input from people with limited hand mobility.
 
 ---
 
