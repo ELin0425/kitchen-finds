@@ -17,20 +17,6 @@ a {
 
 h1, h2, h3 { font-weight: 700; }
 
-// Amazon affiliate links render as "Check price" buttons
-a[href*="amazon.com"] {
-  display: inline-block;
-  background: $brand;
-  color: #fff !important;
-  padding: 4px 12px;
-  border-radius: 4px;
-  font-size: 0.9em;
-  font-weight: 600;
-  text-decoration: none !important;
-  margin-top: 4px;
-  &:hover { background: darken($brand, 10%); }
-}
-
 .site-footer {
   font-size: 0.8em;
   opacity: 0.75;
