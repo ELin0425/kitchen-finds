@@ -45,7 +45,7 @@ a:hover { color: $brand-dark; }
   h2 { margin-top: 2em; border-bottom: 1px solid #ede5dc; padding-bottom: 4px; }
   h3 { margin-top: 1.5em; color: #333; }
 
-  a[href*="amazon.com"] {
+  a[href*="amazon.com"]:not([data-inline]) {
     display: inline-block;
     background: $brand;
     color: #fff !important;
