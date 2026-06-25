@@ -1,41 +1,21 @@
 // Accent color overrides on top of solarized skin
 $brand: #e07030;
-
 a {
   color: $brand;
   &:visited { color: darken($brand, 12%); }
   &:hover { color: darken($brand, 18%); text-decoration: underline; }
 }
-
 .site-title {
   font-weight: 800;
   letter-spacing: -0.5px;
   &, &:visited { color: $brand; }
 }
-
 .site-nav .page-link { font-weight: 500; }
-
 h1, h2, h3 { font-weight: 700; }
-
-// Amazon affiliate links as standalone buttons, unless marked data-inline
-a[href*="amazon.com"]:not([data-inline]) {
-  display: inline-block;
-  background: $brand;
-  color: #fff !important;
-  padding: 4px 12px;
-  border-radius: 4px;
-  font-size: 0.9em;
-  font-weight: 600;
-  text-decoration: none !important;
-  margin-top: 4px;
-  &:hover { background: darken($brand, 10%); }
-}
-
 .site-footer {
   font-size: 0.8em;
   opacity: 0.75;
 }
-
 .post-summary {
   color: #555;
   font-size: 0.95em;
