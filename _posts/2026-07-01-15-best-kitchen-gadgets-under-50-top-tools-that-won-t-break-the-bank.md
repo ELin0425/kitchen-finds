@@ -38,7 +38,7 @@ Now let's get into the actual picks.
 
 A good knife is the single most important tool in any kitchen. Full stop. You don't need a $200 Japanese blade to cook well. You need something sharp, balanced, and comfortable in your hand.
 
-The [Victorinox 8-inch chef's knife](https://www.amazon.com/dp/B07BK4YVB3/?tag=merrieri0a-20) is the go-to recommendation from culinary schools, home cooks, and professional chefs who want something reliable without the ego price tag. It has a high-carbon stainless steel blade, a comfortable fibrox handle, and it holds its edge well between sharpenings. Under $50, it's one of the best kitchen purchases you can make.
+The <a href="https://www.amazon.com/dp/B07BK4YVB3/?tag=merrieri0a-20" data-inline>Victorinox 8-inch chef's knife</a> is the go-to recommendation from culinary schools, home cooks, and professional chefs who want something reliable without the ego price tag. It has a high-carbon stainless steel blade, a comfortable fibrox handle, and it holds its edge well between sharpenings. Under $50, it's one of the best kitchen purchases you can make.
 
 If you've been struggling through meal prep with a dull blade, you'll be shocked by how much faster and safer cooking becomes with a proper knife.
 
@@ -48,7 +48,7 @@ These tools exist to save you from repetitive, boring knife work. A good vegetab
 
 Look for choppers with multiple blade inserts and easy-open lids for dumping food directly into a bowl. For mandolines, always get one with a hand guard. Seriously. Don't skip the hand guard.
 
-If you're already thinking about peeling vegetables before you chop them, check out our roundup of [budget-friendly vegetable peelers](https://kitchen-finds.com/best-vegetable-peelers-under-50-top-picks-for-every-kitchen-style) to find one that won't fight you every step of the way.
+If you're already thinking about peeling vegetables before you chop them, check out our roundup of [budget-friendly vegetable peelers](https://kitchen-finds.com/2026/06/24/best-vegetable-peelers-under-50-top-picks-for-every-kitchen-style/) to find one that won't fight you every step of the way.
 
 ### Cutting Boards
 
@@ -62,7 +62,7 @@ Bamboo boards in the $20 to $35 range are solid choices. They're hard enough to 
 
 If you make rice more than once a week and you're still doing it on the stovetop, a rice cooker will change your life. Set it, walk away, come back to perfect rice. Every time.
 
-This [compact rice cooker](https://www.amazon.com/dp/B0BN6755NP/?tag=merrieri0a-20) is ideal for smaller households. It handles white rice, brown rice, and even steaming vegetables. The keep-warm function means dinner can be ready whenever you are. For a single person or a couple, it's the right size and the right price.
+This <a href="https://www.amazon.com/dp/B0BN6755NP/?tag=merrieri0a-20" data-inline>compact rice cooker</a> is ideal for smaller households. It handles white rice, brown rice, and even steaming vegetables. The keep-warm function means dinner can be ready whenever you are. For a single person or a couple, it's the right size and the right price.
 
 Rice cookers also free up a burner, which matters more than you'd think when you're trying to get multiple things done at once.
 
@@ -76,7 +76,7 @@ Look for mini choppers with at least two speed settings and a removable, dishwas
 
 A basic electric kettle is fine. A variable temperature electric kettle is better. If you drink green tea, pour-over coffee, or any kind of specialty tea, water temperature actually matters. Boiling water kills delicate flavors.
 
-This [variable temp electric kettle](https://www.amazon.com/dp/B0C4NM9NVV/?tag=merrieri0a-20) lets you set the exact temperature you need. It also heats water faster than a stovetop kettle and shuts off automatically. That last feature matters more than you think at 7am.
+This <a href="https://www.amazon.com/dp/B0C4NM9NVV/?tag=merrieri0a-20" data-inline>variable temp electric kettle</a> lets you set the exact temperature you need. It also heats water faster than a stovetop kettle and shuts off automatically. That last feature matters more than you think at 7am.
 
 For small kitchens especially, a kettle with a compact footprint and a fast heat time is worth every dollar.
 
@@ -86,15 +86,15 @@ For small kitchens especially, a kettle with a compact footprint and a fast heat
 
 The oven mitts that come with cheap kitchen sets are usually thin, short, and basically useless for anything over 350 degrees. Real oven mitts should protect you up to at least 450 to 500 degrees and reach far enough up your forearm that you're not burning yourself on the rack.
 
-These [silicone oven mitts](https://www.amazon.com/dp/B07SVFKNVV/?tag=merrieri0a-20) are waterproof, heat-resistant, and have textured grip so you're not fumbling with heavy pans. They're also machine washable, which is a detail that matters when you inevitably grab a pair with greasy hands.
+These <a href="https://www.amazon.com/dp/B07SVFKNVV/?tag=merrieri0a-20" data-inline>silicone oven mitts</a> are waterproof, heat-resistant, and have textured grip so you're not fumbling with heavy pans. They're also machine washable, which is a detail that matters when you inevitably grab a pair with greasy hands.
 
 ### Silicone Kitchen Utensil Sets
 
 Silicone utensils are non-stick friendly, heat resistant, easy to clean, and they don't melt if they accidentally rest on a hot pan edge. They've mostly replaced wooden spoons and metal spatulas in most modern kitchens for good reason.
 
-A good [silicone utensil set](https://www.amazon.com/s?k=silicone%20kitchen%20utensil%20set&tag=merrieri0a-20) typically includes a spatula, spoon, slotted spoon, ladle, and tongs. Sets in the $20 to $35 range from brands like OXO or StarPack are well-reviewed and hold up to daily use.
+A good <a href="https://www.amazon.com/s?k=silicone%20kitchen%20utensil%20set&tag=merrieri0a-20" data-inline>silicone utensil set</a> typically includes a spatula, spoon, slotted spoon, ladle, and tongs. Sets in the $20 to $35 range from brands like OXO or StarPack are well-reviewed and hold up to daily use.
 
-If you want a deeper look at spatula options specifically, our guide on the [best silicone spatulas under $50](https://kitchen-finds.com/best-silicone-spatula-under-50-top-picks-for-every-kitchen-task) breaks down the top picks by task.
+If you want a deeper look at spatula options specifically, our guide on the [best silicone spatulas under $50](https://kitchen-finds.com/2026/06/24/best-silicone-spatula-under-50-top-picks-for-every-kitchen-task/) breaks down the top picks by task.
 
 ### Heat-Resistant Grips and Handles
 
@@ -116,7 +116,7 @@ If you already have the variable temperature kettle mentioned above, you're most
 
 This one sounds niche but it's genuinely useful. A good dressing dispenser lets you shake, mix, and pour dressing straight from the same container. No more dried-out dressing on the sides of separate bowls.
 
-This [salad dressing shaker](https://www.amazon.com/dp/B002OOVB0I/?tag=merrieri0a-20) has a built-in whisk ball and measurement markings so you can follow recipes directly in the jar. It's also great for vinaigrettes, sauces, and pancake batter in a pinch.
+This <a href="https://www.amazon.com/dp/B002OOVB0I/?tag=merrieri0a-20" data-inline>salad dressing shaker</a> has a built-in whisk ball and measurement markings so you can follow recipes directly in the jar. It's also great for vinaigrettes, sauces, and pancake batter in a pinch.
 
 ### Non-Alcoholic Drink Makers
 
@@ -130,7 +130,7 @@ For cold brew, a Mason jar with a mesh insert works perfectly well and costs alm
 
 Mixing bowls that go from counter to microwave to fridge are genuinely versatile. You can mix, heat, and store in the same vessel. That means fewer dishes and more flexibility.
 
-A good set of [microwave-safe mixing bowls](https://www.amazon.com/s?k=microwave-safe%20mixing%20bowls&tag=merrieri0a-20) with lids covers prep, storage, and reheating. Look for sets that nest together to save cabinet space. Glass options are heavier but more durable and don't stain. BPA-free plastic sets are lighter and often cheaper.
+A good set of <a href="https://www.amazon.com/s?k=microwave-safe%20mixing%20bowls&tag=merrieri0a-20" data-inline>microwave-safe mixing bowls</a> with lids covers prep, storage, and reheating. Look for sets that nest together to save cabinet space. Glass options are heavier but more durable and don't stain. BPA-free plastic sets are lighter and often cheaper.
 
 ### Food Storage Containers
 
@@ -191,5 +191,5 @@ The best kitchen gadgets under $50 aren't the ones with the most features or the
 ## Related Articles
 
 - [15 Best Kitchen Organization Tools Under $50: Budget-Friendly Solutions for Every Cabinet and Drawer](https://kitchen-finds.com/2026/06/26/15-best-kitchen-organization-tools-under-50-budget-friendly-solutions-for-every-cabinet-and-drawer/)
-- [Best Vegetable Peelers Under $50: Top Picks for Every Kitchen Style](https://kitchen-finds.com/best-vegetable-peelers-under-50-top-picks-for-every-kitchen-style)
-- [Best Silicone Spatula Under $50: Top Picks for Every Kitchen Task](https://kitchen-finds.com/best-silicone-spatula-under-50-top-picks-for-every-kitchen-task)
+- [Best Vegetable Peelers Under $50: Top Picks for Every Kitchen Style](https://kitchen-finds.com/2026/06/24/best-vegetable-peelers-under-50-top-picks-for-every-kitchen-style/)
+- [Best Silicone Spatula Under $50: Top Picks for Every Kitchen Task](https://kitchen-finds.com/2026/06/24/best-silicone-spatula-under-50-top-picks-for-every-kitchen-task/)
