@@ -17,8 +17,7 @@ products:
     url: "https://www.amazon.com/dp/B0D2BY3T4B/?tag=merrieri0a-20"
 ---
 
-![A silicone spatula stirring melted dark chocolate in a saucepan](/assets/images/posts/2026-06-24-best-silicone-spatula-under-50-top-picks-for-every-kitchen-task.jpg)
-{:width="1080" height="720"}
+<img src="/assets/images/posts/2026-06-24-best-silicone-spatula-under-50-top-picks-for-every-kitchen-task.jpg" alt="A silicone spatula stirring melted dark chocolate in a saucepan" width="1080" height="720">
 *Photo by [Joanna Stolowicz](https://unsplash.com/@joanna_stolowicz) on [Unsplash](https://unsplash.com)*
 
 A good silicone spatula might be the most underrated tool in your kitchen. It scrambles eggs without scratching your pan, folds batter without deflating it, and scrapes every last bit of sauce from the bowl. One tool, a hundred uses. And the best ones cost less than a dinner out.

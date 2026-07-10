@@ -23,8 +23,7 @@ products:
     url: "https://www.amazon.com/s?k=kitchen+shears/scissors&tag=merrieri0a-20"
 ---
 
-![A kitchen drawer with an assortment of everyday utensils and spoons](/assets/images/posts/2026-07-03-10-best-kitchen-tools-under-20-budget-friendly-gadgets-that-actually-work.jpg)
-{:width="1080" height="720"}
+<img src="/assets/images/posts/2026-07-03-10-best-kitchen-tools-under-20-budget-friendly-gadgets-that-actually-work.jpg" alt="A kitchen drawer with an assortment of everyday utensils and spoons" width="1080" height="720">
 *Photo by [Orgalux](https://unsplash.com/@orgalux) on [Unsplash](https://unsplash.com)*
 
 Spending a fortune on kitchen gear is not a requirement for cooking great food. Some of the most useful tools in any home kitchen cost less than a takeout meal. This list covers the best kitchen tools under $20 that hold up, do their job well, and make cooking more enjoyable without draining your wallet.

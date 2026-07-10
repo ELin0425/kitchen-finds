@@ -21,8 +21,7 @@ products:
     url: "https://www.amazon.com/dp/B0FYPK36QQ/?tag=merrieri0a-20"
 ---
 
-![A red apple being peeled with a vegetable peeler over a white plate](/assets/images/posts/2026-06-24-best-vegetable-peelers-under-50-top-picks-for-every-kitchen-style.jpg)
-{:width="1080" height="720"}
+<img src="/assets/images/posts/2026-06-24-best-vegetable-peelers-under-50-top-picks-for-every-kitchen-style.jpg" alt="A red apple being peeled with a vegetable peeler over a white plate" width="1080" height="720">
 *Photo by [Sandie Clarke](https://unsplash.com/@honeypoppet) on [Unsplash](https://unsplash.com)*
 
 A good vegetable peeler is one of those tools you don't think about until you have a bad one. Then every carrot feels like a workout and every potato takes twice as long. The best vegetable peeler isn't flashy. It's sharp, comfortable, and gets out of your way so you can actually cook.

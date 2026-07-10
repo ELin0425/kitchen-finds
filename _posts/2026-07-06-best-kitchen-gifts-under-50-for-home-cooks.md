@@ -22,8 +22,7 @@ products:
     url: "https://www.amazon.com/dp/B0C39YPJFD?tag=merrieri0a-20"
 ---
 
-![A set of wooden cooking spoons standing in a wooden crock, a classic kitchen gift](/assets/images/posts/2026-07-06-best-kitchen-gifts-under-50-for-home-cooks.jpg)
-{:width="1080" height="1620"}
+<img src="/assets/images/posts/2026-07-06-best-kitchen-gifts-under-50-for-home-cooks.jpg" alt="A set of wooden cooking spoons standing in a wooden crock, a classic kitchen gift" width="1080" height="1620">
 *Photo by [Andrew Valdivia](https://unsplash.com/@donovan_valdivia) on [Unsplash](https://unsplash.com)*
 
 Finding a kitchen gift that doesn't end up in the back of a cabinet is harder than it sounds. Most people already have the basics, and novelty gadgets lose their appeal fast. What home cooks actually want are beautiful, well-made tools they reach for every single time they cook.

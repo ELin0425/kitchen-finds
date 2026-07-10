@@ -22,8 +22,7 @@ products:
     url: "https://www.amazon.com/dp/B00006JSUA?tag=merrieri0a-20"
 ---
 
-![A small apartment kitchen with an island counter, blender, and gas stove](/assets/images/posts/2026-06-15-best-kitchen-gadgets-for-college-students.jpg)
-{:width="1080" height="720"}
+<img src="/assets/images/posts/2026-06-15-best-kitchen-gadgets-for-college-students.jpg" alt="A small apartment kitchen with an island counter, blender, and gas stove" width="1080" height="720">
 *Photo by [Franco Debartolo](https://unsplash.com/@francotheshooter) on [Unsplash](https://unsplash.com)*
 
 Ramen is fine. For approximately two weeks. After that, you're either spending $15 a day on takeout or staring at a bag of spinach wondering how anyone actually cooks without a full kitchen setup. The real problem isn't motivation — it's not having the right tools.

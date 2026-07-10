@@ -148,10 +148,19 @@ IMAGES = {
 
 IMG_LINE_RE = re.compile(r"^!\[[^\]]*\]\([^)]+\)\s*$", re.M)
 
+# NOTE: kramdown's block IAL (`{:width="..." height="..."}` on the line right
+# after a markdown image) does NOT get hoisted onto the <img> tag under
+# GitHub Pages' GFM-mode kramdown - it lands on the wrapping <p> instead,
+# where width/height are meaningless. Verified live after first deploying
+# with that approach. Using a raw HTML <img> tag instead guarantees the
+# attributes land on the actual element regardless of parser quirks.
+
 
 def build_block(info):
-    lines = [f'![{info["alt"]}]({info["path"]})']
-    lines.append(f'{{:width="{info["width"]}" height="{info["height"]}"}}')
+    lines = [
+        f'<img src="{info["path"]}" alt="{info["alt"]}" '
+        f'width="{info["width"]}" height="{info["height"]}">'
+    ]
     if info.get("caption"):
         name, profile = info["caption"]
         lines.append(f"*Photo by [{name}]({profile}) on [Unsplash](https://unsplash.com)*")

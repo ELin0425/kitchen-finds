@@ -23,8 +23,7 @@ products:
     url: "https://www.amazon.com/s?k=microwave-safe%20mixing%20bowls&tag=merrieri0a-20"
 ---
 
-![A kitchen counter with a Dutch oven, mortar and pestle, and a cutting board with a chef's knife](/assets/images/posts/2026-07-01-15-best-kitchen-gadgets-under-50-top-tools-that-wo.jpg)
-{:width="1080" height="843"}
+<img src="/assets/images/posts/2026-07-01-15-best-kitchen-gadgets-under-50-top-tools-that-wo.jpg" alt="A kitchen counter with a Dutch oven, mortar and pestle, and a cutting board with a chef's knife" width="1080" height="843">
 *Photo by [KROK Craft](https://unsplash.com/@krokcraft) on [Unsplash](https://unsplash.com)*
 
 You don't need to spend hundreds of dollars to stock a kitchen that actually works. The best kitchen gadgets under $50 can transform the way you cook, prep, and serve food every single day. And honestly, some of the most useful tools I've ever used cost less than a takeout order.

@@ -21,8 +21,7 @@ products:
     url: "https://www.amazon.com/s?k=non-slip%20rubber%20base%20cutting%20boards&tag=merrieri0a-20"
 ---
 
-![A thick end-grain wood cutting board with a checkerboard pattern](/assets/images/posts/2026-07-10-best-cutting-board-under-50-in-2026-top-picks-for-.jpg)
-{:width="1080" height="608"}
+<img src="/assets/images/posts/2026-07-10-best-cutting-board-under-50-in-2026-top-picks-for-.jpg" alt="A thick end-grain wood cutting board with a checkerboard pattern" width="1080" height="608">
 *Photo by [Pawel Wertel](https://unsplash.com/@szuja) on [Unsplash](https://unsplash.com)*
 
 A good cutting board is the most-used surface in your kitchen. You hit it dozens of times every single day. Get the wrong one and you'll deal with slipping, knife damage, bacteria traps, and boards that warp after a month. Get the right one and meal prep becomes faster, safer, and honestly more enjoyable.

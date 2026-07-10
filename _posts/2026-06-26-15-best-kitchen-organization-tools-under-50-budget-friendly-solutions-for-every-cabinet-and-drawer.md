@@ -23,8 +23,7 @@ products:
     url: "https://www.amazon.com/dp/B0DD593G67/?tag=merrieri0a-20"
 ---
 
-![An organized kitchen drawer filled with neatly arranged utensils](/assets/images/posts/2026-06-26-15-best-kitchen-organization-tools-under-50-budget-friendly-solutions-for-every-cabinet-and-drawer.jpg)
-{:width="1080" height="720"}
+<img src="/assets/images/posts/2026-06-26-15-best-kitchen-organization-tools-under-50-budget-friendly-solutions-for-every-cabinet-and-drawer.jpg" alt="An organized kitchen drawer filled with neatly arranged utensils" width="1080" height="720">
 *Photo by [Daiga Ellaby](https://unsplash.com/@daiga_ellaby) on [Unsplash](https://unsplash.com)*
 
 ## Why Kitchen Organization Tools Matter
