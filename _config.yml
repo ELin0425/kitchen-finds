@@ -15,6 +15,14 @@ permalink: /:year/:month/:day/:title/
 
 header_pages:
   - about.md
+  - how-we-pick.md
+
+defaults:
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      author: "Kitchen Finds Team"
 
 plugins:
   - jekyll-sitemap
