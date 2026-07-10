@@ -3,6 +3,7 @@ layout: post
 title: "10 Best Kitchen Tools Under $20: Budget-Friendly Gadgets That Actually Work"
 date: 2026-07-03 15:53:45
 categories: [kitchen-gadgets]
+category: gadgets
 description: "Spending a fortune on kitchen gear is not a requirement for cooking great food. Some of the most useful tools in any home kitchen cost less than a takeout meal. This list covers the best kitchen..."
 image: /assets/images/default.jpg
 products:

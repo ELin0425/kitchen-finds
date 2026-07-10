@@ -4,6 +4,7 @@ title: "4 Best Mini Appliances for Dorm Rooms That Actually Pull Their Weight"
 date: 2026-06-17
 description: "4 best mini appliances for dorm rooms — immersion blender, salad spinner, veggie chopper & cast iron skillet that earn their counter space."
 categories: [kitchen, gadgets]
+category: small-spaces
 image: "/assets/images/posts/2026-06-17-best-mini-appliances-for-dorm-rooms.jpg"
 faq:
   - q: "Are mini appliances allowed in dorm rooms?"

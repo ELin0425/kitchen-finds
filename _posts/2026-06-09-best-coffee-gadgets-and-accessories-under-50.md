@@ -4,6 +4,7 @@ title: "The 6 Best Coffee Gadgets and Accessories Under $50 That Actually Upgrad
 date: 2026-06-09
 description: "The 6 best coffee gadgets and accessories under $50 — burr grinders, pour-over drippers, frothers, and cold brew makers that actually improve your cup."
 categories: [kitchen, gadgets]
+category: appliances
 image: "/assets/images/posts/2026-06-09-best-coffee-gadgets-and-accessories-under.jpg"
 redirect_from:
   - /2026/06/09/best-coffee-gadgets-and-accessories-under/

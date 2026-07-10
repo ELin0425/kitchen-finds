@@ -4,6 +4,7 @@ title: "The 7 Best Kitchen Tools for Beginners Under $50 That Actually Get Used"
 date: 2026-06-10
 description: "The best kitchen tools for beginners under $50 — 7 practical picks that build real skills without the clutter or the regret."
 categories: [kitchen, gadgets]
+category: prep-tools
 image: "/assets/images/posts/2026-06-19-best-kitchen-tools-for-beginners-under-50.jpg"
 faq:
   - q: "What kitchen tools should a beginner buy first?"

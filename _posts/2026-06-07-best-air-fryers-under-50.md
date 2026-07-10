@@ -4,6 +4,7 @@ title: "The 7 Best Air Fryers Under $50 That Actually Deliver Crispy Results"
 date: 2026-06-07
 description: "The 7 best air fryers under $50 that actually cook well — from smart Wi-Fi models to family-sized picks, tested and ranked for real kitchens."
 categories: [kitchen, gadgets]
+category: appliances
 image: "/assets/images/posts/2026-06-07-best-air-fryers-under-50.jpg"
 faq:
   - q: "Are air fryers under $50 actually worth buying?"

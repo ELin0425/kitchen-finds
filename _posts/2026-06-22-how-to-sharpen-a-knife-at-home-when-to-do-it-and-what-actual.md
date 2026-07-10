@@ -4,6 +4,7 @@ title: "How to Sharpen a Knife at Home: When to Do It and What Actually Works"
 date: 2026-06-22
 description: "Learn when and how to sharpen a knife at home, plus which methods actually work: whetstone, pull-through, or electric sharpener explained clearly."
 categories: [kitchen, gadgets]
+category: guides
 faq:
   - q: "Can I sharpen a serrated knife at home?"
     a: "Yes, but the process is different. Serrated knives have individual scallops, not a flat edge. You need a tapered ceramic rod or a serrated knife sharpener to work each scallop individually. It's tedious, but a serrated knife that's losing its bite is worth the effort. Most home cooks can get away with touching up serrated knives once a year."

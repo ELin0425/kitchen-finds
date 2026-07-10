@@ -3,6 +3,7 @@ layout: post
 title: "15 Best Kitchen Organization Tools Under $50: Budget-Friendly Solutions for Every Cabinet and Drawer"
 date: 2026-06-26 16:16:23
 categories: [kitchen-gadgets]
+category: organization
 description: "A messy kitchen slows everything down. You spend three minutes hunting for the vegetable peeler, knock over a bottle of olive oil reaching for the garlic powder, and by the time you actually start..."
 image: /assets/images/default.jpg
 products:

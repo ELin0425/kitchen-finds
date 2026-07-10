@@ -4,6 +4,7 @@ title: "3 Best Kitchen Gadgets for College Students That Actually Earn Counter S
 date: 2026-06-15
 description: "3 best kitchen gadgets for college students — practical picks that save time, cut food costs, and actually earn their spot in a small kitchen."
 categories: [kitchen, gadgets]
+category: small-spaces
 image: "/assets/images/posts/2026-06-15-best-kitchen-gadgets-for-college-students.jpg"
 faq:
   - q: "What kitchen gadgets should every college student own?"

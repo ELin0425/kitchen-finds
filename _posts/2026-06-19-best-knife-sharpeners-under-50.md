@@ -4,6 +4,7 @@ title: "3 Best Knife Sharpeners Under $50 That Actually Work"
 date: 2026-06-19
 description: "The 3 best knife sharpeners under $50 — real results, no learning curve. Find the right pick for your kitchen with our honest, no-fluff breakdown."
 categories: [kitchen, gadgets]
+category: knives
 image: "/assets/images/posts/2026-06-19-best-knife-sharpeners-under-50.jpg"
 faq:
   - q: "How often should I use a knife sharpener?"

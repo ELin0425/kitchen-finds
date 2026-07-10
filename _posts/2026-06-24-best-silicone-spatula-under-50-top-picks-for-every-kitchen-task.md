@@ -3,6 +3,7 @@ layout: post
 title: "Best Silicone Spatula Under $50: Top Picks for Every Kitchen Task"
 date: 2026-06-24 10:00:00
 categories: [kitchen-gadgets]
+category: prep-tools
 description: "A good silicone spatula might be the most underrated tool in your kitchen. It scrambles eggs without scratching your pan, folds batter without deflating it, and scrapes every last bit of sauce from..."
 image: /assets/images/default.jpg
 products:

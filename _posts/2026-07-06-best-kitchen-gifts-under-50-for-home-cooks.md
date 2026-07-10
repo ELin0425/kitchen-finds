@@ -4,6 +4,7 @@ title: "3 Best Kitchen Gifts Under $50 for Home Cooks (That Actually Get Used)"
 date: 2026-07-06
 description: "3 best kitchen gifts under $50 for home cooks: wooden spoon sets, olive wood tongs, and bamboo utensils that real cooks actually use and love."
 categories: [kitchen, gadgets]
+category: small-spaces
 faq:
   - q: "What are the best kitchen gifts under $50 for someone who already has everything?"
     a: "Focus on consumables and natural-material upgrades. High-quality wooden tools, good olive oil, or artisan salts are things even well-stocked cooks run through and appreciate. A beautiful olive wood tong set or premium wooden spoon collection replaces something they already have with a noticeably nicer version."

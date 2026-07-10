@@ -4,6 +4,7 @@ title: "How to Season a Cast Iron Skillet (and Keep It Seasoned for Years)"
 date: 2026-06-29
 description: "Learn how to season a cast iron skillet properly, maintain it long-term, and fix common problems like rust and stickiness with simple steps."
 categories: [kitchen, gadgets]
+category: guides
 faq:
   - q: "Can I use soap to clean my cast iron skillet?"
     a: "Occasionally, yes. Modern dish soap is mild enough that a quick wash with soap and water will not strip properly polymerized seasoning. The problem is soaking, scrubbing aggressively, or doing it every single time. For daily cleaning, warm water and a stiff brush are enough."

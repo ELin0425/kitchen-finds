@@ -3,6 +3,7 @@ layout: post
 title: "Best Cutting Board Under $50 in 2026: Top Picks for Every Kitchen"
 date: 2026-07-10 16:24:42
 categories: [kitchen-gadgets]
+category: prep-tools
 description: "A good cutting board is the most-used surface in your kitchen. You hit it dozens of times every single day. Get the wrong one and youll deal with slipping, knife damage, bacteria traps, and boards..."
 image: /assets/images/posts/2026-07-10-best-cutting-board-under-50-in-2026-top-picks-for-.jpg
 products:

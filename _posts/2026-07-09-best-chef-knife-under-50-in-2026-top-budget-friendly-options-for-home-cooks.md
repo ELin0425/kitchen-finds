@@ -3,6 +3,7 @@ layout: post
 title: "Best Chef Knife Under $50 in 2026: Top Budget-Friendly Options for Home Cooks"
 date: 2026-07-09 00:48:12
 categories: [kitchen-gadgets]
+category: knives
 description: "A sharp chef knife changes everything about cooking. Your prep gets faster. Food looks better. Your hands get less tired. And you actually enjoy being in the kitchen instead of fighting with dull,..."
 image: /assets/images/posts/2026-07-09-best-chef-knife-under-50-in-2026-top-budget-friend.jpg
 products:

@@ -3,6 +3,7 @@ layout: post
 title: "Best Vegetable Peelers Under $50: Top Picks for Every Kitchen Style"
 date: 2026-06-24
 categories: [kitchen-gadgets]
+category: prep-tools
 description: "A good vegetable peeler is one of those tools you dont think about until you have a bad one. Sharp, comfortable, and gets out of your way so you can actually cook."
 image: /assets/images/default.jpg
 products:
