@@ -12,6 +12,13 @@ faq:
     a: "Sharpening removes metal to create a new edge. Honing realigns an existing edge that's bent or rolled from use. Most multi-stage pull-through sharpeners do both — earlier slots sharpen, later ceramic slots hone. For regular maintenance between sharpenings, the honing slot is your go-to."
   - q: "Are pull-through sharpeners safe for expensive knives?"
     a: "They're fine for mid-range and everyday kitchen knives. If you're working with Japanese knives or high-carbon blades with very specific bevel angles, a whetstone gives you more control. For the average home cook's German-steel chef's knife, a quality pull-through sharpener under $50 will serve you well for years."
+products:
+  - name: "Kitchellence 3-Stage Knife Sharpener"
+    url: "https://www.amazon.com/dp/B079WWFZY6?tag=merrieri0a-20"
+  - name: "Longzon 5-in-1 Knife Sharpener with Cut-Resistant Glove"
+    url: "https://www.amazon.com/dp/B08FWNCNH9?tag=merrieri0a-20"
+  - name: "TLe Stainless Steel 4-in-1 Kitchen Knife Sharpener"
+    url: "https://www.amazon.com/dp/B0BF8V5M3N?tag=merrieri0a-20"
 ---
 
 ![best knife sharpeners under $50](/assets/images/posts/2026-06-19-best-knife-sharpeners-under-50.jpg)

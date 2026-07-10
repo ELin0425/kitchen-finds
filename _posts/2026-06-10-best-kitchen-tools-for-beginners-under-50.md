@@ -12,6 +12,21 @@ faq:
     a: "Usually not — the biggest skill gains in beginner cooking come from technique, not equipment. The exception is knives, where a bad blade actively makes you worse. Most of the other tools on this list are under $30."
   - q: "What's the most used kitchen tool for everyday cooking?"
     a: "A chef's knife, consistently. It touches almost every meal. If you only upgrade one thing in your kitchen, make it a knife with a proper edge."
+products:
+  - name: "Lodge 10.25 Inch Cast Iron Skillet"
+    url: "https://www.amazon.com/dp/B00006JSUA?tag=merrieri0a-20"
+  - name: "Fullstar Vegetable Chopper Spiralizer"
+    url: "https://www.amazon.com/dp/B0764HS4SL?tag=merrieri0a-20"
+  - name: "OXO Good Grips Large Salad Spinner"
+    url: "https://www.amazon.com/dp/B00004OCNS?tag=merrieri0a-20"
+  - name: "Victorinox Fibrox Pro 8-Inch Chef's Knife"
+    url: "https://www.amazon.com/dp/B008M5U1C2?tag=merrieri0a-20"
+  - name: "Escali Primo Digital Kitchen Scale"
+    url: "https://www.amazon.com/dp/B001NE0FU2?tag=merrieri0a-20"
+  - name: "Nordic Ware Natural Aluminum Commercial Baker's Half Sheet"
+    url: "https://www.amazon.com/dp/B0049C2S32?tag=merrieri0a-20"
+  - name: "Alpha Grillers Instant Read Meat Thermometer"
+    url: "https://www.amazon.com/dp/B00S93EQUK?tag=merrieri0a-20"
 ---
 
 Most beginner cooks don't fail because they lack talent — they fail because someone sold them a $200 knife set and a spiralizer before they learned to boil an egg. The result is a drawer full of gadgets that feel accusatory every time you open it.

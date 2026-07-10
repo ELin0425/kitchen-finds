@@ -12,6 +12,15 @@ faq:
     a: "It depends on how you actually eat. If you make smoothies or protein shakes daily, the immersion blender pays for itself in week one. If you're doing any real cooking with a hot plate, the cast iron skillet is the highest-value item on this list over a four-year stretch."
   - q: "How do I keep mini appliances clean in a small space?"
     a: "The tools here were chosen partly because they're easy to clean without a full kitchen setup. The immersion blender rinses under the tap in seconds. The salad spinner bowls can be wiped or rinsed in a dorm bathroom sink. The chopper handwashes quickly with a brush. The cast iron just needs a dry wipe and a drop of oil — no soaking required."
+products:
+  - name: "Mueller Ultra-Stick 500W Immersion Blender"
+    url: "https://www.amazon.com/dp/B07Y7CSNL5?tag=merrieri0a-20"
+  - name: "OXO Good Grips Large Salad Spinner"
+    url: "https://www.amazon.com/dp/B00004OCNS?tag=merrieri0a-20"
+  - name: "Fullstar Vegetable Chopper Spiralizer"
+    url: "https://www.amazon.com/dp/B0764HS4SL?tag=merrieri0a-20"
+  - name: "Lodge 10.25 Inch Cast Iron Skillet"
+    url: "https://www.amazon.com/dp/B00006JSUA?tag=merrieri0a-20"
 ---
 
 ![best mini appliances for dorm rooms](/assets/images/posts/2026-06-17-best-mini-appliances-for-dorm-rooms.jpg)

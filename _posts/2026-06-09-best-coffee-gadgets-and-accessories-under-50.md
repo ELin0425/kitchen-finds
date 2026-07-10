@@ -14,6 +14,19 @@ faq:
     a: "Yes, genuinely. The Melitta and Hario V60 both produce excellent coffee, and the quality of your water temperature and pour technique matters more than the price of the dripper. A $15 dripper with good technique beats a $60 dripper used carelessly every time."
   - q: "What's the best coffee accessory for someone who mostly drinks cold brew?"
     a: "A dedicated cold brew maker like the Takeya is worth it for one reason: containment. It keeps grounds completely separated from the liquid during the steep, which means no sediment and no messy straining step. It's a cleaner process than any DIY workaround."
+products:
+  - name: "OXO Brew Conical Burr Grinder"
+    url: "https://www.amazon.com/dp/B07CSKGLMM?tag=merrieri0a-20"
+  - name: "Hario V60 Ceramic Dripper"
+    url: "https://www.amazon.com/dp/B000P4D5HG?tag=merrieri0a-20"
+  - name: "PowerLix Milk Frother"
+    url: "https://www.amazon.com/dp/B01BY9RTNQ?tag=merrieri0a-20"
+  - name: "Takeya Patented Deluxe Cold Brew Coffee Maker"
+    url: "https://www.amazon.com/dp/B00FFLY64U?tag=merrieri0a-20"
+  - name: "Melitta Pour-Over Coffee Maker"
+    url: "https://www.amazon.com/dp/B001796HGY?tag=merrieri0a-20"
+  - name: "Lodge 10.25 Inch Cast Iron Skillet"
+    url: "https://www.amazon.com/dp/B00006JSUA?tag=merrieri0a-20"
 ---
 
 ![best coffee gadgets and accessories under $50](/assets/images/posts/2026-06-09-best-coffee-gadgets-and-accessories-under.jpg)

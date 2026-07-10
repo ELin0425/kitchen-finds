@@ -12,6 +12,13 @@ faq:
     a: "That depends on your dorm's setup. Electric stovetops and induction burners work fine with cast iron. If your room has only a microwave and no cooking setup, the skillet is a better fit for an off-campus apartment."
   - q: "Are these kitchen gadgets for college students actually worth buying, or should I just use what comes with the apartment?"
     a: "Furnished apartments usually come with the bare minimum — one scratched pan, one sad spatula. Having your own solid skillet and blender means you're not cooking around someone else's limitations, and you take them with you when you move."
+products:
+  - name: "OXO Good Grips Large Salad Spinner"
+    url: "https://www.amazon.com/dp/B00004OCNS?tag=merrieri0a-20"
+  - name: "Fullstar Vegetable Chopper Spiralizer"
+    url: "https://www.amazon.com/dp/B0764HS4SL?tag=merrieri0a-20"
+  - name: "Lodge 10.25 Inch Cast Iron Skillet"
+    url: "https://www.amazon.com/dp/B00006JSUA?tag=merrieri0a-20"
 ---
 
 ![best kitchen gadgets for college students](/assets/images/posts/2026-06-15-best-kitchen-gadgets-for-college-students.jpg)

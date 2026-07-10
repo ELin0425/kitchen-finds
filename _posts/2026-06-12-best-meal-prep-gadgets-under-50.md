@@ -12,6 +12,13 @@ faq:
     a: "It depends entirely on the tool. Some categories — cast iron skillets, salad spinners, manual choppers — deliver excellent results at low price points because the mechanics are simple. Other categories, like electric appliances or mandoline slicers, tend to disappoint under $30. The best meal prep gadgets under $50 are usually the ones that don't have motors."
   - q: "How do I know if a kitchen gadget will actually save me time?"
     a: "Ask whether it eliminates a step you currently do with multiple tools, or whether it just does one thing slightly faster. The Fullstar chopper replaces a cutting board, knife, and colander for vegetable prep. The salad spinner means you don't have to paper-towel-dry greens in small batches. Gadgets that consolidate steps save real time; gadgets that just add novelty don't."
+products:
+  - name: "Fullstar Vegetable Chopper Spiralizer"
+    url: "https://www.amazon.com/dp/B0764HS4SL?tag=merrieri0a-20"
+  - name: "OXO Good Grips Large Salad Spinner"
+    url: "https://www.amazon.com/dp/B00004OCNS?tag=merrieri0a-20"
+  - name: "Lodge 10.25 Inch Cast Iron Skillet"
+    url: "https://www.amazon.com/dp/B00006JSUA?tag=merrieri0a-20"
 ---
 
 ![best meal prep gadgets under $50](/assets/images/posts/2026-06-12-best-meal-prep-gadgets-under-50.jpg)

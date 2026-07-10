@@ -95,3 +95,20 @@
 }
 </script>
 {% endif %}
+
+{% if page.products %}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "ItemList",
+  "itemListElement": [{% for item in page.products %}
+    {
+      "@type": "ListItem",
+      "position": {{ forloop.index }},
+      "name": {{ item.name | jsonify }},
+      "url": {{ item.url | jsonify }}
+    }{% unless forloop.last %},{% endunless %}{% endfor %}
+  ]
+}
+</script>
+{% endif %}
