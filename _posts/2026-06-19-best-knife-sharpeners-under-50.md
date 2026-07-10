@@ -22,7 +22,8 @@ products:
     url: "https://www.amazon.com/dp/B0BF8V5M3N?tag=merrieri0a-20"
 ---
 
-![best knife sharpeners under $50](/assets/images/posts/2026-06-19-best-knife-sharpeners-under-50.jpg)
+![Hands chopping fresh herbs with a sharp chef's knife on a cutting board](/assets/images/posts/2026-06-19-best-knife-sharpeners-under-50.jpg)
+{:width="1080" height="715"}
 *Photo by [Alyson McPhee](https://unsplash.com/@alyson_jane) on [Unsplash](https://unsplash.com)*
 
 Dull knives are responsible for more kitchen injuries than sharp ones — because you press harder and lose control faster. Yet most people replace blades long before they need to, simply because they don't have a decent sharpener within arm's reach. The good news: you don't need to spend $150 on a fancy gadget to bring your knives back to life.

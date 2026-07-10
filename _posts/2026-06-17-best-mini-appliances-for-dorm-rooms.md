@@ -24,7 +24,8 @@ products:
     url: "https://www.amazon.com/dp/B00006JSUA?tag=merrieri0a-20"
 ---
 
-![best mini appliances for dorm rooms](/assets/images/posts/2026-06-17-best-mini-appliances-for-dorm-rooms.jpg)
+![A stainless steel colander on a cutting board with mini kitchen appliances in the background](/assets/images/posts/2026-06-17-best-mini-appliances-for-dorm-rooms.jpg)
+{:width="1080" height="720"}
 *Photo by [David Trinks](https://unsplash.com/@dtrinksrph) on [Unsplash](https://unsplash.com)*
 
 Dorm kitchen privileges are basically a cruel joke. You've got a 10-inch countertop, a communal microwave that smells like someone's 4 a.m. ramen, and zero cabinet space. Most "dorm appliance" roundups solve this by recommending a waffle maker — which you'll use once in October and never again.

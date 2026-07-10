@@ -5,6 +5,7 @@ date: 2026-06-29
 description: "Learn how to season a cast iron skillet properly, maintain it long-term, and fix common problems like rust and stickiness with simple steps."
 categories: [kitchen, gadgets]
 category: guides
+image: "/assets/images/posts/2026-06-29-how-to-season-a-cast-iron-skillet-and-keep-it-that-way.jpg"
 faq:
   - q: "Can I use soap to clean my cast iron skillet?"
     a: "Occasionally, yes. Modern dish soap is mild enough that a quick wash with soap and water will not strip properly polymerized seasoning. The problem is soaking, scrubbing aggressively, or doing it every single time. For daily cleaning, warm water and a stiff brush are enough."
@@ -13,6 +14,10 @@ faq:
   - q: "How long does cast iron seasoning last?"
     a: "A well-seasoned, regularly used skillet can go years without needing a full re-seasoning. The seasoning builds and improves with every use. Neglect, moisture, and acidic foods like tomatoes or citrus are the main things that degrade it over time."
 ---
+
+![A red bell pepper resting in a well-seasoned cast iron skillet](/assets/images/posts/2026-06-29-how-to-season-a-cast-iron-skillet-and-keep-it-that-way.jpg)
+{:width="1080" height="1439"}
+*Photo by [Joel Rouse](https://unsplash.com/@thebumpercrew) on [Unsplash](https://unsplash.com)*
 
 Most people ruin a cast iron skillet before they ever cook a single meal in it. They scrub it with soap, let it air dry, or skip the oven step entirely, then wonder why their eggs stick and their pan looks patchy after a month.
 

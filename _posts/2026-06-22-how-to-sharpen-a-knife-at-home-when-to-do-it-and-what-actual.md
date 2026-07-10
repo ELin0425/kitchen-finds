@@ -5,6 +5,7 @@ date: 2026-06-22
 description: "Learn when and how to sharpen a knife at home, plus which methods actually work: whetstone, pull-through, or electric sharpener explained clearly."
 categories: [kitchen, gadgets]
 category: guides
+image: "/assets/images/posts/2026-06-22-how-to-sharpen-a-knife-at-home-when-to-do-it-and-what-actual.jpg"
 faq:
   - q: "Can I sharpen a serrated knife at home?"
     a: "Yes, but the process is different. Serrated knives have individual scallops, not a flat edge. You need a tapered ceramic rod or a serrated knife sharpener to work each scallop individually. It's tedious, but a serrated knife that's losing its bite is worth the effort. Most home cooks can get away with touching up serrated knives once a year."
@@ -13,6 +14,10 @@ faq:
   - q: "How long does a sharpened edge last?"
     a: "That depends entirely on what you're cutting, what you're cutting on, and how you store the knife. Cutting on glass or ceramic boards destroys edges fast. Wood and plastic boards are much gentler. A properly sharpened knife maintained with regular honing can hold a working edge for two to four months of moderate home use before needing another full sharpening."
 ---
+
+![Close-up of hands sharpening a knife blade against a whetstone](/assets/images/posts/2026-06-22-how-to-sharpen-a-knife-at-home-when-to-do-it-and-what-actual.jpg)
+{:width="1080" height="1080"}
+*Photo by [Sebastian Schuster](https://unsplash.com/@sschusterphotoart) on [Unsplash](https://unsplash.com)*
 
 A dull knife is more dangerous than a sharp one. That sounds backwards until the moment your blade slips off a tomato skin and heads straight for your fingers. Sharp knives cut where you aim them. Dull ones require force, and force is where accidents happen.
 

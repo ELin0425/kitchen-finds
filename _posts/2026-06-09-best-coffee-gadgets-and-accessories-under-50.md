@@ -30,7 +30,8 @@ products:
     url: "https://www.amazon.com/dp/B00006JSUA?tag=merrieri0a-20"
 ---
 
-![best coffee gadgets and accessories under $50](/assets/images/posts/2026-06-09-best-coffee-gadgets-and-accessories-under.jpg)
+![A pour-over coffee carafe and cup of coffee next to a compact coffee gadget](/assets/images/posts/2026-06-09-best-coffee-gadgets-and-accessories-under.jpg)
+{:width="1080" height="811"}
 *Photo by [Goran Ivos](https://unsplash.com/@goran_ivos) on [Unsplash](https://unsplash.com)*
 
 Most coffee gear falls into two camps: overpriced machines that require a barista certification, or cheap junk that breaks inside a month. Finding the sweet spot — genuinely useful tools that cost less than a dinner out — takes more digging than it should.

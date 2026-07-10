@@ -5,7 +5,7 @@ date: 2026-07-09 00:48:12
 categories: [kitchen-gadgets]
 category: knives
 description: "A sharp chef knife changes everything about cooking. Your prep gets faster. Food looks better. Your hands get less tired. And you actually enjoy being in the kitchen instead of fighting with dull,..."
-image: /assets/images/posts/2026-07-09-best-chef-knife-under-50-in-2026-top-budget-friend.jpg
+image: "/assets/images/posts/2026-07-09-best-chef-knife-under-50-in-2026-top-budget-friend.jpg"
 products:
   - name: "German-style stainless blade"
     url: "https://www.amazon.com/s?k=German-style%20stainless%20steel%20chef%20knife%20under%20%2450&tag=merrieri0a-20"
@@ -21,7 +21,8 @@ products:
     url: "https://www.amazon.com/s?k=versatile%20all-purpose%20chef%20knife%20under%20%2450&tag=merrieri0a-20"
 ---
 
-![best chef knife under $50](/assets/images/posts/2026-07-09-best-chef-knife-under-50-in-2026-top-budget-friend.jpg)
+![Two chef's knives laid out on a cutting board next to bread, milk, and sliced fruit](/assets/images/posts/2026-07-09-best-chef-knife-under-50-in-2026-top-budget-friend.jpg)
+{:width="1080" height="720"}
 *Photo by [Cooker King](https://unsplash.com/@cookerking) on [Unsplash](https://unsplash.com)*
 
 A sharp chef knife changes everything about cooking. Your prep gets faster. Food looks better. Your hands get less tired. And you actually enjoy being in the kitchen instead of fighting with dull, cheap blades that slip and crush instead of cut.

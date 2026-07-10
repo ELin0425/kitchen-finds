@@ -28,7 +28,8 @@ products:
     url: "https://www.amazon.com/dp/B079NXBWDR?tag=merrieri0a-20"
 ---
 
-![best immersion blenders under 50](/kitchen-finds/assets/images/posts/2026-06-07-best-immersion-blenders-under-50.jpg)
+![A hand using an immersion blender to blend ingredients in a cup at the kitchen sink](/assets/images/posts/2026-06-07-best-immersion-blenders-under-50.jpg)
+{:width="1080" height="720"}
 *Photo by [Louis Hansel](https://unsplash.com/@louishansel) on [Unsplash](https://unsplash.com)*
 
 Most people buy an immersion blender once, shove it in a drawer after three uses, and forget it exists. Usually that's not their fault — it's the blender's. A weak motor, a blade that splatters more than it blends, or a cord that's six inches too short will kill the habit fast.

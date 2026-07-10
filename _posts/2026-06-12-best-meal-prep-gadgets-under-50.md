@@ -22,7 +22,8 @@ products:
     url: "https://www.amazon.com/dp/B00006JSUA?tag=merrieri0a-20"
 ---
 
-![best meal prep gadgets under $50](/assets/images/posts/2026-06-12-best-meal-prep-gadgets-under-50.jpg)
+![Hands chopping fresh cilantro with a chef's knife on a cutting board](/assets/images/posts/2026-06-12-best-meal-prep-gadgets-under-50.jpg)
+{:width="1080" height="715"}
 *Photo by [Alyson McPhee](https://unsplash.com/@alyson_jane) on [Unsplash](https://unsplash.com)*
 
 Meal prep sounds great until you're 45 minutes in, you've dirtied every cutting board you own, and you've only chopped half an onion. The problem isn't motivation — it's having the right tools.

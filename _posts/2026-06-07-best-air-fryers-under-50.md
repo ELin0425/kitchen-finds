@@ -30,7 +30,8 @@ products:
     url: "https://www.amazon.com/dp/B007P6SAZ4?tag=merrieri0a-20"
 ---
 
-![best air fryers under $50](/assets/images/posts/2026-06-07-best-air-fryers-under-50.jpg)
+![Golden fried chicken bites cooking in an air fryer basket](/assets/images/posts/2026-06-07-best-air-fryers-under-50.jpg)
+{:width="1080" height="720"}
 *Photo by [Fujiphilm](https://unsplash.com/@fujiphilm) on [Unsplash](https://unsplash.com)*
 
 Most budget air fryers promise the world and deliver soggy fries. The $30 impulse buys that crowd Amazon's bestseller list tend to run hot in one spot, have baskets that warp after three months, and come with "recipe books" that are basically just the word "chicken" repeated twelve times.
