@@ -2,7 +2,8 @@
 layout: post
 title: "The 6 Best Immersion Blenders Under $50 That Actually Get the Job Done"
 date: 2026-06-07
-description: "The 6 best immersion blenders under $50 — tested picks for real kitchens, from beginner-friendly to high-powered. Find the right one fast."
+last_modified_at: 2026-07-10
+description: "6 best immersion blenders under $50, tested picks for real kitchens: from beginner-friendly to high-powered. Find the right one fast."
 categories: [kitchen, gadgets]
 category: appliances
 image: "/assets/images/posts/2026-06-07-best-immersion-blenders-under-50.jpg"

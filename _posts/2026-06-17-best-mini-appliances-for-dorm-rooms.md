@@ -1,8 +1,9 @@
 ---
 layout: post
-title: "4 Best Mini Appliances for Dorm Rooms That Actually Pull Their Weight"
+title: "4 Best Small Kitchen Appliances for Dorm Rooms Under $50"
 date: 2026-06-17
-description: "4 best mini appliances for dorm rooms — immersion blender, salad spinner, veggie chopper & cast iron skillet that earn their counter space."
+last_modified_at: 2026-07-10
+description: "4 best small kitchen appliances for dorm rooms and college kitchens under $50: immersion blender, salad spinner, veggie chopper, and cast iron skillet that earn their counter space."
 categories: [kitchen, gadgets]
 category: small-spaces
 image: "/assets/images/posts/2026-06-17-best-mini-appliances-for-dorm-rooms.jpg"
