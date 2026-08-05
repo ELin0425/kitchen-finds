@@ -9,24 +9,76 @@ layout: default
 
   {{ content }}
 
+  {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
+
   {%- if site.posts.size > 0 -%}
-    <h2 class="post-list-heading">{{ page.list_title | default: "Posts" }}</h2>
-    <ul class="post-list">
-      {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
-      {%- for post in site.posts -%}
-      <li>
-        <span class="post-meta">{{ post.date | date: date_format }}</span>
-        <h3>
-          <a class="post-link" href="{{ post.url | relative_url }}">
-            {{ post.title | escape }}
-          </a>
-        </h3>
-        {%- if post.description -%}
-          <p class="post-summary">{{ post.description }}</p>
+
+    {%- comment -%} Tier 1: hero — newest post {%- endcomment -%}
+    {%- assign hero_post = site.posts.first -%}
+    <a class="home-featured" href="{{ hero_post.url | relative_url }}">
+      <div class="home-featured-media">
+        {%- if hero_post.image -%}
+          <img src="{{ hero_post.image | relative_url }}" alt="{{ hero_post.title | escape }}" loading="eager" fetchpriority="high">
+        {%- else -%}
+          <div class="card-media-placeholder" aria-hidden="true">
+            <span class="card-media-placeholder-mark">Kitchen Finds</span>
+          </div>
         {%- endif -%}
-      </li>
-      {%- endfor -%}
-    </ul>
+      </div>
+      <div class="home-featured-body">
+        <span class="post-meta">{{ hero_post.date | date: date_format }}</span>
+        <h2 class="home-featured-title">{{ hero_post.title | escape }}</h2>
+        {%- if hero_post.description -%}
+          <p class="home-featured-summary">{{ hero_post.description | truncatewords: 35 }}</p>
+        {%- endif -%}
+      </div>
+    </a>
+
+    {%- comment -%} Tier 2: image-card grid — next 9 posts {%- endcomment -%}
+    {%- assign grid_posts = site.posts | slice: 1, 9 -%}
+    {%- if grid_posts.size > 0 -%}
+      <div class="post-grid">
+        {%- for post in grid_posts -%}
+          <a class="post-card" href="{{ post.url | relative_url }}">
+            <div class="post-card-media">
+              {%- if post.image -%}
+                <img src="{{ post.image | relative_url }}" alt="{{ post.title | escape }}" loading="lazy">
+              {%- else -%}
+                <div class="card-media-placeholder" aria-hidden="true">
+                  <span class="card-media-placeholder-mark">Kitchen Finds</span>
+                </div>
+              {%- endif -%}
+            </div>
+            <div class="post-card-body">
+              <span class="post-meta">{{ post.date | date: date_format }}</span>
+              <h3 class="post-card-title">{{ post.title | escape }}</h3>
+              {%- if post.description -%}
+                <p class="post-card-summary">{{ post.description | truncatewords: 20 }}</p>
+              {%- endif -%}
+            </div>
+          </a>
+        {%- endfor -%}
+      </div>
+    {%- endif -%}
+
+    {%- comment -%} Tier 3: compact text archive — everything else {%- endcomment -%}
+    {%- assign archive_posts = site.posts | slice: 10, site.posts.size -%}
+    {%- if archive_posts.size > 0 -%}
+      <h2 class="post-list-heading">More reviews &amp; guides</h2>
+      <ul class="post-list post-list-archive">
+        {%- for post in archive_posts -%}
+        <li>
+          <span class="post-meta">{{ post.date | date: date_format }}</span>
+          <h3>
+            <a class="post-link" href="{{ post.url | relative_url }}">
+              {{ post.title | escape }}
+            </a>
+          </h3>
+        </li>
+        {%- endfor -%}
+      </ul>
+    {%- endif -%}
+
   {%- endif -%}
 
 </div>
