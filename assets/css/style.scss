@@ -211,19 +211,3 @@ a:hover { color: $brand-dark; }
   li { margin-bottom: 14px; }
   h3 { font-size: 1em; margin: 2px 0; }
 }
-
-.post-hero-media {
-  position: relative;
-  aspect-ratio: 21 / 9;
-  overflow: hidden;
-  border-radius: 8px;
-  margin: 20px 0 30px;
-  background: #f2f2f2;
-
-  img {
-    width: 100%;
-    height: 100%;
-    object-fit: cover;
-    display: block;
-  }
-}

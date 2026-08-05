@@ -4,6 +4,7 @@ title: "How to Meal Prep for the Week in Under an Hour"
 date: 2026-07-13
 description: "Learn how to meal prep for the week in under an hour with one protein, one grain, and a simple no-fuss system anyone can follow."
 categories: [kitchen, gadgets]
+image: "/assets/images/posts/2026-07-13-how-to-meal-prep-for-the-week-in-under-an-hour.jpg"
 faq:
   - q: "How long does meal-prepped food actually last in the fridge?"
     a: "Most cooked proteins, grains, and roasted vegetables stay fresh for 4 days when stored in airtight containers below 40°F. If you want the food to last the full week, freeze two of the five portions on prep day and move them to the fridge the night before you plan to eat them."
@@ -12,6 +13,9 @@ faq:
   - q: "What's the cheapest way to meal prep for a week?"
     a: "Buy chicken thighs instead of breasts, rice instead of quinoa, and frozen vegetables instead of fresh; frozen broccoli or stir-fry blends roast just as well straight from the freezer with a few extra minutes in the oven. A five-day prep built this way typically runs $15 to $20 total."
 ---
+
+![how to meal prep for the week in under an hour](/assets/images/posts/2026-07-13-how-to-meal-prep-for-the-week-in-under-an-hour.jpg)
+*Photo by [THLT LCX](https://unsplash.com/@thlt_lcx) on [Unsplash](https://unsplash.com)*
 
 Sunday night meal prep sounds great until you realize it's eaten your entire afternoon, dirtied every pot you own, and left you too tired to actually enjoy the week you just organized. That's not meal prep, that's a part-time job.
 

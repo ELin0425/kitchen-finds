@@ -4,6 +4,7 @@ title: "How to Keep Herbs Fresh for Two Weeks or Longer"
 date: 2026-08-03
 description: "Learn how to store fresh herbs so they last 2+ weeks. Simple, proven methods for soft herbs, basil, and hardy herbs like rosemary and thyme."
 categories: [kitchen, gadgets]
+image: "/assets/images/posts/2026-08-03-how-to-keep-herbs-fresh-for-two-weeks-or-longer.jpg"
 faq:
   - q: "Why do my herbs go slimy even in the fridge?"
     a: "Slime is almost always trapped moisture combined with poor air circulation. If herbs are sealed tight in a plastic bag with no airflow, condensation builds up and accelerates decay. Switch to the loosely covered jar method or a partially open bag for hardy herbs."
@@ -12,6 +13,9 @@ faq:
   - q: "Do fresh herbs lose flavor even if they still look fresh?"
     a: "Yes, slightly. Essential oils that give herbs their aroma and taste do fade over time, even under ideal storage. Herbs stored properly for two weeks will still taste noticeably better than herbs from a wilted bag, but for the strongest flavor, use them within the first week when possible."
 ---
+
+![how to keep herbs fresh for two weeks or longer](/assets/images/posts/2026-08-03-how-to-keep-herbs-fresh-for-two-weeks-or-longer.jpg)
+*Photo by [Kevin Doran](https://unsplash.com/@kfitzdor) on [Unsplash](https://unsplash.com)*
 
 You buy a bunch of cilantro with big plans, use two tablespoons for a recipe, and find the rest a slimy, blackened mess in the crisper drawer four days later. Sound familiar? Fresh herbs are one of the most wasted items in the average kitchen, and it's almost never because you bought too many. It's because you stored them wrong.
 

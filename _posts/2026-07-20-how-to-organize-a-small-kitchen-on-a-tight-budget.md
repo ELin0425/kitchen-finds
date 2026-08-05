@@ -4,7 +4,11 @@ title: "How to Organize a Small Kitchen on a Tight Budget"
 date: 2026-07-20
 description: "The best how to organize a small kitchen on a tight budget — tested picks with real Amazon affiliate links."
 categories: [kitchen, gadgets]
+image: "/assets/images/posts/2026-07-20-how-to-organize-a-small-kitchen-on-a-tight-budget.jpg"
 ---
+
+![how to organize a small kitchen on a tight budget](/assets/images/posts/2026-07-20-how-to-organize-a-small-kitchen-on-a-tight-budget.jpg)
+*Photo by [Cabri Caldwell](https://unsplash.com/@minimizethenorganize) on [Unsplash](https://unsplash.com)*
 
 You open a cabinet looking for the lid to your saucepan, and three other lids fall out first. Your counter has become a landing pad for mail, keys, and that one appliance you use twice a year. This isn't a "you need a bigger kitchen" problem. It's a "your kitchen isn't organized for how you actually cook" problem, and fixing it costs a lot less than you think.
 
