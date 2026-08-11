@@ -38,15 +38,30 @@ jobs:
       - name: Generate article
         env:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          UNSPLASH_ACCESS_KEY: ${{ secrets.UNSPLASH_ACCESS_KEY }}
           BLOG_REPO_PATH: ${{ github.workspace }}
         working-directory: _pipeline
         run: python main.py
+
+      - name: Verify hero image present
+        run: |
+          new_posts=$(git status --porcelain _posts/ | awk '{print $2}')
+          if [ -z "$new_posts" ]; then
+            echo "No new article generated, skipping image check."
+            exit 0
+          fi
+          for f in $new_posts; do
+            if ! grep -q '^image:' "$f"; then
+              echo "::error file=$f::Post generated without a hero image (image: missing in frontmatter) - not publishing"
+              exit 1
+            fi
+          done
 
       - name: Commit and push new article
         run: |
           git config user.email "bot@kitchen-finds.com"
           git config user.name "Kitchen Finds Bot"
-          git add _posts/
+          git add _posts/ assets/images/posts/
           git diff --staged --quiet && echo "No new article generated." && exit 0
           git commit -m "post: auto-generated article"
           git push
